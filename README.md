@@ -8,6 +8,9 @@
   
 **Launcher:** [Prism Launcher](https://prismlauncher.org/) is **required** for the **best** experience.
 
+1. Download the latest `.zip` from the **Releases** tab.
+2. Import the zip directly into **Prism Launcher** or other optional launchers.
+
 > [!IMPORTANT]
 > **Development has migrated away from CurseForge.** Due to redundant asset checks, CurseForge load times are significantly longer.
 
@@ -18,8 +21,6 @@
 > * Does not track you or collect data
 > * Native support for **CurseForge**, **Modrinth**, and others
 
-1. Download the latest `.zip` from the **Releases** tab.
-2. Import the zip directly into **Prism Launcher** or other optional launchers.
 
 ## Current To-Do List:
 
