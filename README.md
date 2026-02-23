@@ -1,10 +1,9 @@
 # Foundry 1.20.1
 
-**Foundry** is an Industrial modpack for Forge 1.20.1 designed from the ground up.
-## Pack Goals
+## Pack Info:
 
-* **Scripting:** Roughly 2,000 lines of custom code and scripts written for the pack.
-* **Overhauled Progression:** Hundreds of recipe changed adding integration between all mods.
+* **Scripting:** Roughly 2,000 lines of custom code and scripts written for the pack along with numerous custom items.
+* **Overhauled Progression:** Hundreds of recipe changed adding integration between all mods in the pack.
 * **Performance Optimized:** Specifically adjusted for stability and fast load times no matter what hardware.
   
 **Launcher:** [Prism Launcher](https://prismlauncher.org/) is **required** for the **best** experience.
@@ -12,13 +11,16 @@
 > [!IMPORTANT]
 > **Development has migrated away from CurseForge.** Due to redundant asset checks, CurseForge load times are significantly longer.
 
-1.  Download the latest `.zip` from the **Releases** tab.
-2.  Import the zip directly into **Prism Launcher**.
+> [!TIP]
+> **Benefits of Prism Launcher:**
+> * Open Source
+> * Near-instantaneous load times
+> * Does not track you or collect data
+> * Native support for **CurseForge**, **Modrinth**, and others
+
+1. Download the latest `.zip` from the **Releases** tab.
+2. Import the zip directly into **Prism Launcher** or other optional launchers.
 
 ## Current To-Do List:
 
-TBD
-
-
-
----
+* TBD
