@@ -1,0 +1,48 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": false,
+  "bookData": {
+    "enigmaticlegacy:the_acknowledgment": {
+      "viewedEntries": [
+        "enigmaticlegacy:relics/spellstones",
+        "enigmaticlegacy:relics/cursed_ring",
+        "enigmaticlegacy:relics/enigmatic_amulet",
+        "enigmaticlegacy:accessories/berserk_charm",
+        "enigmaticlegacy:accessories/fabulous_scroll",
+        "enigmaticlegacy:accessories/enigmatic_elytra",
+        "enigmaticlegacy:tools/ender_slayer",
+        "enigmaticlegacy:tools/eldritch_pan",
+        "enigmaticlegacy:tools/the_infinitum",
+        "enigmaticlegacy:tools/etherium_axe",
+        "enigmaticlegacy:accessories/darkest_scroll",
+        "enigmaticlegacy:accessories/escape_scroll"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "superbwarfare:superb_warfare_manual": {
+      "viewedEntries": [
+        "superbwarfare:weapon/control",
+        "superbwarfare:weapon/intro"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "terramity:terramity_guidebook": {
+      "viewedEntries": [
+        "terramity:bosses/super_sniffer",
+        "terramity:guns/controls",
+        "terramity:guns/gun_types"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "mffs:handbook": {
+      "viewedEntries": [
+        "mffs:getting_started/gathering_resources"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

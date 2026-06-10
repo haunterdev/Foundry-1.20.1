@@ -1,0 +1,17 @@
+filename = 'ToolStats-Forge-1.20.1-16.0.10.jar'
+name = 'Tool Stats'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ToolStats-Forge-1.20.1-16.0.10.jar'
+
+[download]
+hash = 'b1f7f35208168d7a24f1c08c66ae358a6c2a231b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7613277
+project-id = 377109

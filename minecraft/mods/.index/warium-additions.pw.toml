@@ -1,0 +1,17 @@
+filename = 'warium_additions-1.1.3-all.jar'
+name = 'Warium Additions'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Warium Additions 1.1.3'
+
+[download]
+hash = '87d96b3f883f689b6c2715b23d1782786b385bde'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7935021
+project-id = 1368736

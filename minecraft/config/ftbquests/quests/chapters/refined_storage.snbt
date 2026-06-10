@@ -1,0 +1,238 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "refined_storage"
+	group: "211B40D265EABF98"
+	id: "530F2186DEC104F7"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "1A8A5DB331BDCD42"
+			tasks: [{
+				dimension: "minecraft:the_nether"
+				id: "1C464074B9E156C2"
+				type: "dimension"
+			}]
+			x: 0.5d
+			y: -2.5d
+		}
+		{
+			dependencies: ["1A8A5DB331BDCD42"]
+			id: "0AE1BCC3C47CB13C"
+			tasks: [{
+				count: 5L
+				id: "23B130A8B6A90D9F"
+				item: { Count: 5, id: "refinedstorage:quartz_enriched_iron" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "2DCDC6146810EFE3"
+			tasks: [{
+				id: "668FEA865FBEA7E4"
+				item: "refinedstorage:processor_binding"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"0AE1BCC3C47CB13C"
+				"2DCDC6146810EFE3"
+				"5D924C9FA1C5B258"
+			]
+			id: "37D5232912D756D3"
+			tasks: [{
+				id: "7BD7AD5D03F3557E"
+				item: "refinedstorage:raw_basic_processor"
+				type: "item"
+			}]
+			x: -0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1A8A5DB331BDCD42"]
+			id: "5D924C9FA1C5B258"
+			tasks: [{
+				id: "31955F9E644F4219"
+				item: "refinedstorage:silicon"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 0.5d
+		}
+		{
+			dependencies: [
+				"2DCDC6146810EFE3"
+				"5D924C9FA1C5B258"
+			]
+			id: "13F259B269B907CD"
+			tasks: [{
+				id: "1B9CABE0F7C9BB3A"
+				item: "refinedstorage:raw_improved_processor"
+				type: "item"
+			}]
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"2DCDC6146810EFE3"
+				"5D924C9FA1C5B258"
+			]
+			id: "1305E18ACCA0D881"
+			shape: "circle"
+			tasks: [{
+				id: "64FF9D4DAE87E3E5"
+				item: "refinedstorage:raw_advanced_processor"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["0AE1BCC3C47CB13C"]
+			id: "19B35A728867ECB7"
+			tasks: [{
+				id: "539452DFDEFDE4B6"
+				item: "refinedstorage:machine_casing"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"1305E18ACCA0D881"
+				"19B35A728867ECB7"
+			]
+			id: "6AA7E66331B866AB"
+			tasks: [{
+				id: "79E05C043DF7D600"
+				item: "refinedstorage:disk_drive"
+				type: "item"
+			}]
+			x: -1.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"1305E18ACCA0D881"
+				"5D924C9FA1C5B258"
+				"0AE1BCC3C47CB13C"
+				"19B35A728867ECB7"
+			]
+			id: "69AFD4DB3EBF81D7"
+			tasks: [{
+				id: "63289FEDF1704ABE"
+				item: "refinedstorage:controller"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"19B35A728867ECB7"
+				"0AE1BCC3C47CB13C"
+				"13F259B269B907CD"
+				"37D5232912D756D3"
+			]
+			id: "3CCB120E22287D8E"
+			tasks: [{
+				id: "3AFAC95EC8E7F747"
+				item: "refinedstorage:grid"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["3CCB120E22287D8E"]
+			id: "1CEDDAADCD629939"
+			tasks: [{
+				id: "36D4D73A4AC9F352"
+				item: "refinedstorage:crafting_grid"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"6AA7E66331B866AB"
+				"5D924C9FA1C5B258"
+				"0AE1BCC3C47CB13C"
+			]
+			id: "1C54C16AD2764090"
+			tasks: [{
+				id: "4837921E0196FA6B"
+				item: "refinedstorage:1k_storage_part"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["1C54C16AD2764090"]
+			dependency_requirement: "one_completed"
+			id: "43E45683EE3ECF2B"
+			tasks: [{
+				id: "7F17EE270AF4A1C6"
+				item: "refinedstorage:1k_storage_disk"
+				type: "item"
+			}]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["1C54C16AD2764090"]
+			id: "4D91CF4253EEA437"
+			tasks: [{
+				id: "1D25B513B799FA43"
+				item: "refinedstorage:4k_storage_part"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["4D91CF4253EEA437"]
+			id: "121A2DB916A5F13F"
+			tasks: [{
+				id: "7179210B1038697A"
+				item: "refinedstorage:4k_storage_disk"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["4D91CF4253EEA437"]
+			id: "0EF9228D00C77360"
+			tasks: [{
+				id: "33695232269FC9B8"
+				item: "refinedstorage:16k_storage_part"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0EF9228D00C77360"]
+			id: "6052724770E3D9AE"
+			tasks: [{
+				id: "0084F834328C376B"
+				item: "refinedstorage:16k_storage_disk"
+				type: "item"
+			}]
+			x: -5.5d
+			y: 6.0d
+		}
+	]
+	title: "Refined Storage Basics"
+}

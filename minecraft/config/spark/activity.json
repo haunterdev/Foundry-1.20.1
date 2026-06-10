@@ -1,0 +1,15 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "SwedishNoodles",
+      "uniqueId": "801dd1e7-4f73-4d04-a449-569852c4021e"
+    },
+    "time": 1776998661229,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/JLSrxS6dDa"
+    }
+  }
+]

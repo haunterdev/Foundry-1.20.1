@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "travelers_backpack"
+	group: "57474D1281EBDE44"
+	id: "02F424F3D64F6C0C"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "06473C0429B1ABDA"
+		tasks: [{
+			id: "3B9F19B99766C952"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Traveler's Backpack"
+}

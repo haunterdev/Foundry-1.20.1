@@ -1,0 +1,17 @@
+filename = 'mffs-5.1.19-all.jar'
+name = 'Modular Force Field Systems (MFFS)'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MFFS 1.20.1-5.1.19'
+
+[download]
+hash = '4e97181b161feae5e397595fd783d355ee12dd24'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6348308
+project-id = 238546

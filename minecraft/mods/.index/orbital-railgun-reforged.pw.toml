@@ -1,0 +1,17 @@
+filename = 'orbital_railgun-1.4.2.jar'
+name = 'Orbital Railgun Reforged'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'orbital_railgun-1.4.3.jar'
+
+[download]
+hash = 'bc52080ad2c0372ab05c6e189680caa4b6981302'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7292536
+project-id = 1358503

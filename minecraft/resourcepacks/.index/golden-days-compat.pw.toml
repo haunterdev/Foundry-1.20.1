@@ -1,0 +1,54 @@
+filename = 'Golden Days Mod Compat.zip'
+name = 'Golden Days Mod Compat'
+side = 'client'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [
+    '1.20',
+    '1.20',
+    '1.20.1',
+    '1.20.1',
+    '1.20.2',
+    '1.20.2',
+    '1.20.3',
+    '1.20.3',
+    '1.20.4',
+    '1.20.4',
+    '1.20.5',
+    '1.20.5',
+    '1.20.6',
+    '1.20.6',
+    '1.21',
+    '1.21',
+    '1.21.1',
+    '1.21.1',
+    '1.21.10',
+    '1.21.10',
+    '1.21.2',
+    '1.21.2',
+    '1.21.3',
+    '1.21.3',
+    '1.21.4',
+    '1.21.4',
+    '1.21.5',
+    '1.21.5',
+    '1.21.6',
+    '1.21.6',
+    '1.21.7',
+    '1.21.7',
+    '1.21.8',
+    '1.21.8',
+    '1.21.9',
+    '1.21.9'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.4.0'
+
+[download]
+hash = '513f0ffa24f7d6dc8300d2189d39b04abb6be33fb4411622b6abf768d155ded634b862acdbb4aa9b25ed5221dd009ba89b525e5346de53195bcfea8c087ad12b'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k5E8cAZw/versions/9qAphQna/Golden Days Mod Compat.zip'
+
+[update.modrinth]
+mod-id = 'k5E8cAZw'
+version = '9qAphQna'

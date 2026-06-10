@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "tbd_2"
+	group: "1EF1342CE6238E9D"
+	id: "4D73846CCC057C51"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "4572A77A206B732D"
+		tasks: [{
+			id: "0D4BC0C74837FBD7"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 3.5d
+	}]
+	title: "TBD"
+}

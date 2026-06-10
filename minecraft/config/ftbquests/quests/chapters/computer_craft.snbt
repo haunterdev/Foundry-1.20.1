@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "computer_craft"
+	group: "360E4E6D59912587"
+	id: "7FDA7B381B050FC3"
+	order_index: 4
+	quest_links: [ ]
+	quests: [{
+		id: "5D8D08F5AD678EF6"
+		tasks: [{
+			id: "360AEF70FFFFFAB6"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 1.0d
+		y: -0.5d
+	}]
+	title: "Computer Craft"
+}

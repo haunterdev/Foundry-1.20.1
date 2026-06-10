@@ -1,0 +1,17 @@
+filename = 'expandedae-1.3.3.jar'
+name = 'Expanded AE'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'expandedae-1.3.3.jar'
+
+[download]
+hash = 'b89df68a6e84c9e0d715a39279ed061aea5f71ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7266780
+project-id = 1213351

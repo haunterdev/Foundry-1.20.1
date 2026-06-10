@@ -1,0 +1,17 @@
+filename = 'immersivetips-forge-1.0.2-1.20.1.jar'
+name = 'Immersive Tips'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ImmersiveTips Forge 1.0.2 for 1.20.1'
+
+[download]
+hash = '95f152bbdd66e7530cf5db568eb614e3efb1cc96'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6608065
+project-id = 1172669

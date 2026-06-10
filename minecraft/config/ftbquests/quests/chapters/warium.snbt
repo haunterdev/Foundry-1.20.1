@@ -1,0 +1,552 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "warium"
+	group: "65EDE30BDF16512B"
+	id: "559202B36A472D21"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "4688A572F30C0C58"
+			rewards: [{
+				id: "2F14EF75708A15D6"
+				type: "xp"
+				xp: 25
+			}]
+			shape: "square"
+			tasks: [{
+				advancement: "crusty_chunks:powder_types"
+				criterion: ""
+				icon: "minecraft:gunpowder"
+				id: "57BC43A7F405208F"
+				title: "Aquire Gunpower."
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 1.0d
+		}
+		{
+			id: "1EE4D97A778FCBFF"
+			rewards: [{
+				id: "09931BCE270B5B84"
+				type: "xp"
+				xp: 7
+			}]
+			tasks: [{
+				count: 8L
+				icon: "crusty_chunks:blast_clay"
+				id: "6EAD9A22FEE83C44"
+				item: { Count: 4, id: "crusty_chunks:blast_clay" }
+				only_from_crafting: true
+				title: "Get your first small amount of blast clay"
+				type: "item"
+			}]
+			title: "Craft Blast Clay"
+			x: 0.5d
+			y: 2.5d
+		}
+		{
+			dependencies: ["37871E6DD96A6D90"]
+			id: "7CB3D6028E47244D"
+			rewards: [{
+				id: "42542DEB0127E6AA"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				advancement: "crusty_chunks:the_forge"
+				criterion: ""
+				icon: "crusty_chunks:blast_furnace"
+				id: "1B9553242F5472CA"
+				title: "Construct an Alloy Furnace"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["37871E6DD96A6D90"]
+			id: "4607BB4F94A18CFF"
+			rewards: [{
+				id: "4D75FE9570C72506"
+				type: "xp"
+				xp: 4
+			}]
+			tasks: [{
+				count: 4L
+				id: "78ADF2FF0D209EAC"
+				item: { Count: 4, id: "crusty_chunks:blast_funnel" }
+				type: "item"
+			}]
+			x: 0.5d
+			y: 5.5d
+		}
+		{
+			dependencies: ["1EE4D97A778FCBFF"]
+			id: "37871E6DD96A6D90"
+			tasks: [{
+				id: "6E88B3522BF861C0"
+				item: "crusty_chunks:blast_furnace_brick"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 4.0d
+		}
+		{
+			dependencies: ["37871E6DD96A6D90"]
+			id: "1FE1BE6D41CE2C52"
+			tasks: [{
+				id: "760B587C29115CCC"
+				item: "crusty_chunks:firebox"
+				type: "item"
+			}]
+			x: 0.5d
+			y: 8.5d
+		}
+		{
+			dependencies: [
+				"7CB3D6028E47244D"
+				"6487EC72AC22758A"
+			]
+			id: "0D8E8AF3644CAD15"
+			tasks: [{
+				id: "5A470352F1B88AA4"
+				item: "crusty_chunks:steel_ingot"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 7.0d
+		}
+		{
+			dependencies: ["0D8E8AF3644CAD15"]
+			id: "5F88BC0D056F965B"
+			tasks: [{
+				id: "4B7708BB8D08B15C"
+				item: {
+					Count: 1
+					id: "crusty_chunks:hammer"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 3.5d
+			y: 4.5d
+		}
+		{
+			id: "40438C26AF023F20"
+			tasks: [{
+				advancement: "crusty_chunks:tools"
+				criterion: ""
+				id: "469726251DED75D3"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["5312EF3CC25FC7D1"]
+			id: "2C622A1245041A7A"
+			tasks: [{
+				id: "347694EA86FFD796"
+				item: {
+					Count: 1
+					id: "crusty_chunks:cutters"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
+			x: 0.0d
+			y: 12.0d
+		}
+		{
+			dependencies: [
+				"0D8E8AF3644CAD15"
+				"5F88BC0D056F965B"
+			]
+			id: "5312EF3CC25FC7D1"
+			tasks: [{
+				id: "68045DCBE509BCF0"
+				item: "crusty_chunks:steelplate"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"0D8E8AF3644CAD15"
+				"37871E6DD96A6D90"
+			]
+			id: "219E369918BF25DD"
+			tasks: [{
+				advancement: "crusty_chunks:oil_refinery"
+				criterion: ""
+				icon: "crusty_chunks:refinery"
+				id: "22BAD2C3978FE724"
+				type: "advancement"
+			}]
+			x: -1.0d
+			y: 7.0d
+		}
+		{
+			dependencies: [
+				"0D8E8AF3644CAD15"
+				"4607BB4F94A18CFF"
+			]
+			id: "58C1C96B510B3CAB"
+			tasks: [{
+				count: 4L
+				id: "4AE46ED28B07B74F"
+				item: { Count: 4, id: "crusty_chunks:refinery_tower" }
+				type: "item"
+			}]
+			x: -1.0d
+			y: 5.5d
+		}
+		{
+			dependencies: [
+				"219E369918BF25DD"
+				"58C1C96B510B3CAB"
+			]
+			id: "77C0750B1F810C38"
+			tasks: [
+				{
+					id: "440AA03CDE5D1AD3"
+					item: "crusty_chunks:oil_bucket"
+					type: "item"
+				}
+				{
+					id: "1D03C4E7676D4A31"
+					item: "crusty_chunks:diesel_bucket"
+					type: "item"
+				}
+				{
+					id: "47CA53BC4D29E665"
+					item: "crusty_chunks:kerosene_bucket"
+					type: "item"
+				}
+				{
+					id: "2F94FB01801CCC38"
+					item: "crusty_chunks:petrolium_bucket"
+					type: "item"
+				}
+			]
+			x: -2.5d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5312EF3CC25FC7D1"]
+			id: "60875F24EB0DD112"
+			tasks: [{
+				id: "4F36C1FE054AD610"
+				item: "crusty_chunks:bent_component"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 7.0d
+		}
+		{
+			id: "6487EC72AC22758A"
+			tasks: [{
+				advancement: "crusty_chunks:basic_machine"
+				criterion: ""
+				id: "7AD81572FD7325B9"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.0d
+		}
+		{
+			id: "2C8D6D554117EB7F"
+			tasks: [{
+				advancement: "crusty_chunks:explosives"
+				criterion: ""
+				id: "68D2551D5808D417"
+				type: "advancement"
+			}]
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			dependencies: ["37871E6DD96A6D90"]
+			id: "2716FB6CEA6231D8"
+			tasks: [{
+				id: "16A1A9D013E689D6"
+				item: "crusty_chunks:foundry"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["2716FB6CEA6231D8"]
+			id: "63687BE861790449"
+			tasks: [{
+				id: "4A7CB56BBF66F78F"
+				item: "crusty_chunks:component_foundry_template"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["63687BE861790449"]
+			id: "6219494751165621"
+			tasks: [{
+				id: "16FBF18D32B2DC63"
+				item: "crusty_chunks:cast_component"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 11.0d
+		}
+		{
+			dependencies: ["6219494751165621"]
+			id: "1911F9597115C20B"
+			tasks: [{
+				id: "230E2618FAFF8745"
+				item: "crusty_chunks:steel_gear"
+				type: "item"
+			}]
+			x: 3.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"2C622A1245041A7A"
+				"60875F24EB0DD112"
+			]
+			id: "1B09F4DC424B66C9"
+			tasks: [{
+				id: "2B713755562DAF25"
+				item: "crusty_chunks:cut_component"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 11.0d
+		}
+		{
+			dependencies: [
+				"5312EF3CC25FC7D1"
+				"2C622A1245041A7A"
+			]
+			id: "4F0D2DA52B067E78"
+			tasks: [{
+				id: "78FAB9BF45A55BF4"
+				item: "crusty_chunks:steel_spring"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 13.0d
+		}
+		{
+			dependencies: [
+				"1911F9597115C20B"
+				"4F0D2DA52B067E78"
+				"1B09F4DC424B66C9"
+				"6219494751165621"
+			]
+			id: "71DF316EEECDAC7D"
+			tasks: [{
+				count: 8L
+				id: "7188A190C29CF58D"
+				item: { Count: 8, id: "crusty_chunks:steel_component" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["71DF316EEECDAC7D"]
+			id: "41279E48E0E0940F"
+			tasks: [{
+				id: "63CF30AAAA9F2A07"
+				item: "crusty_chunks:production_input"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["71DF316EEECDAC7D"]
+			id: "5D5AE08CA5B1D42E"
+			tasks: [{
+				id: "26626AC6740A77CA"
+				item: "crusty_chunks:assembly_depot"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["71DF316EEECDAC7D"]
+			id: "259718CF906D55D9"
+			tasks: [{
+				id: "61642AC6E76D1D6F"
+				item: "crusty_chunks:production_output"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["71DF316EEECDAC7D"]
+			id: "5FC43FF3DCCB627F"
+			tasks: [{
+				id: "03FB4B7071D2FDA2"
+				item: "crusty_chunks:assembly_machine"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 15.5d
+		}
+		{
+			id: "2039FE515F06B79D"
+			tasks: [{
+				advancement: "crusty_chunks:uranium"
+				criterion: ""
+				id: "18D264F2B621C964"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2039FE515F06B79D"]
+			id: "7FD3D314F45A274C"
+			tasks: [{
+				advancement: "crusty_chunks:fission_core_acquired"
+				criterion: ""
+				id: "501551C04F1A47DD"
+				type: "advancement"
+			}]
+			x: 5.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["77C0750B1F810C38"]
+			id: "11AFF6B6807073AE"
+			tasks: [{
+				id: "1DB19640B8E721D5"
+				item: "crusty_chunks:oil_firebox"
+				type: "item"
+			}]
+			x: -4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["5312EF3CC25FC7D1"]
+			id: "6975545CEF6BFE9D"
+			tasks: [{
+				id: "3E6B229A00D0ED3F"
+				item: "crusty_chunks:electric_firebox"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 8.5d
+		}
+		{
+			dependencies: ["7FD3D314F45A274C"]
+			id: "36A73F95C0AA615C"
+			tasks: [{
+				id: "637EA973C2C4E1EF"
+				item: "crusty_chunks:fusion_bomb"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 1.0d
+		}
+		{
+			dependencies: ["36A73F95C0AA615C"]
+			id: "5E556C38199B5521"
+			tasks: [{
+				id: "2C69F4382437B741"
+				item: "crusty_chunks:ordinance_inline_fusion_warhead_stage_1"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2039FE515F06B79D"]
+			id: "04004AD0469A1072"
+			tasks: [{
+				id: "1639607A0FF9C8ED"
+				item: "crusty_chunks:uranium_enriched_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0D8E8AF3644CAD15"]
+			id: "4399951D9A950248"
+			tasks: [{
+				id: "1FE9AEE23DED1E30"
+				item: "crusty_chunks:shielding_component"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"2D6CC451F55BD2C1"
+				"04004AD0469A1072"
+			]
+			id: "17BC700DE54911EE"
+			tasks: [{
+				id: "37F03E66EB46F0AC"
+				item: "crusty_chunks:thermo_nuclear_fuel"
+				type: "item"
+			}]
+			x: 6.5d
+			y: 4.5d
+		}
+		{
+			dependencies: ["0D8E8AF3644CAD15"]
+			id: "2D6CC451F55BD2C1"
+			tasks: [{
+				id: "387670C8DDE41F64"
+				item: "crusty_chunks:advanced_alloy_ingot"
+				type: "item"
+			}]
+			x: 5.0d
+			y: 4.5d
+		}
+		{
+			dependencies: [
+				"684B5CC044F35792"
+				"5E556C38199B5521"
+			]
+			id: "753BB19DB7E11220"
+			tasks: [{
+				id: "76122AC410B3F31F"
+				item: "crusty_chunks:ordinance_inline_fusion_warhead_stage_2"
+				type: "item"
+			}]
+			x: 9.5d
+			y: 3.0d
+		}
+		{
+			dependencies: [
+				"17BC700DE54911EE"
+				"4399951D9A950248"
+			]
+			id: "684B5CC044F35792"
+			tasks: [{
+				id: "3BB0628D51E7C540"
+				item: "crusty_chunks:fusion_core"
+				type: "item"
+			}]
+			x: 7.5d
+			y: 4.0d
+		}
+	]
+	title: "Warium"
+}

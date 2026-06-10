@@ -1,0 +1,17 @@
+filename = 'clientcrafting-1.20.1-2.1.jar'
+name = 'clientcrafting mod'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'clientcrafting-1.20.1-2.1.jar'
+
+[download]
+hash = '8305d002730b5a68364a3daa41d5a33bc7adb02d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7920135
+project-id = 888790

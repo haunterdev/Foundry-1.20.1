@@ -1,0 +1,126 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "start_here"
+	group: ""
+	id: "7F6889FEC34ABC61"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: [
+				"222698D23A54BE74"
+				"5E830BF26FE7CF92"
+				"43771BD70C7AE13D"
+			]
+			description: ["The Akashic Tome Contains Most Of The Mod Guides In The Pack Located In A Single Book."]
+			icon: "akashictome:tome"
+			id: "1C155354301F4E30"
+			rewards: [{
+				command: "/give @p akashictome:tome{ \"akashictome:data\": { ae2: {Count: 1b, id: \"ae2:guide\"}, ftbquests: {Count: 1b, id: \"ftbquests:book\"}, industrialforegoing: {Count: 1b, id: \"patchouli:guide_book\", tag: {\"patchouli:book\": \"industrialforegoing:industrial_foregoing\"}}, malum: {Count: 1b, id: \"malum:encyclopedia_arcana\"}, mffs: {Count: 1b, id: \"patchouli:guide_book\", tag: {\"patchouli:book\": \"mffs:handbook\"}}, modularrouters: {Count: 1b, id: \"patchouli:guide_book\", tag: {\"patchouli:book\": \"modularrouters:book\"}}, tconstruct: {Count: 1b, id: \"tconstruct:materials_and_you\"} } } 1"
+				elevate_perms: true
+				id: "15B7A262E4079CD2"
+				type: "command"
+			}]
+			shape: "diamond"
+			tasks: [{
+				id: "3B19AF3CD8F0C5D4"
+				title: "Click here to claim your tome."
+				type: "checkmark"
+			}]
+			title: "Claim Your Akashic Tome"
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["1C155354301F4E30"]
+			id: "6E23DC683C08F84F"
+			rewards: [{
+				id: "7C57C9BD53873CB7"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "32DA5947A49CDEEF"
+				item: "enigmaticlegacy:the_acknowledgment"
+				type: "item"
+			}]
+			x: 3.5d
+			y: 0.5d
+		}
+		{
+			dependencies: ["1C155354301F4E30"]
+			id: "72BD2A3F94BF448F"
+			rewards: [{
+				id: "69DF75064373DFD2"
+				type: "xp"
+				xp: 10
+			}]
+			tasks: [{
+				id: "7FAB95D92CBBF931"
+				item: {
+					Count: 1
+					id: "patchouli:guide_book"
+					tag: {
+						"patchouli:book": "mffs:handbook"
+					}
+				}
+				type: "item"
+			}]
+			x: 0.5d
+			y: 0.5d
+		}
+		{
+			id: "5E830BF26FE7CF92"
+			rewards: [{
+				count: 2
+				id: "2D8944C60A29E101"
+				item: "minecraft:bread"
+				type: "item"
+			}]
+			subtitle: "Hundreds of recipes have been modified in this pack. To view any recipe, search for the item in JEI (the recipe list on the right side of your inventory) and press R to show its recipe. You can also press U to see all recipes that use it as an ingredient."
+			tasks: [{
+				id: "607A94E6B76A5C33"
+				title: "Starter Guide"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -4.0d
+		}
+		{
+			id: "43771BD70C7AE13D"
+			rewards: [{
+				id: "4B0A09859CFA118D"
+				type: "xp"
+				xp: 10
+			}]
+			subtitle: "Have feedback? Share it in the suggestions channel on Discord. I read and consider all feedback. If you have a complaint about a specific recipe cost or balance oversight, let me know. I am open to changing anything."
+			tasks: [{
+				id: "77B2A796417C8C71"
+				title: "Performance"
+				type: "checkmark"
+			}]
+			title: "Pack Info"
+			x: 3.5d
+			y: -4.0d
+		}
+		{
+			id: "222698D23A54BE74"
+			rewards: [{
+				id: "3F42EF3417E0D47D"
+				item: "minecraft:oak_log"
+				type: "item"
+			}]
+			subtitle: "This is a semi-anarchy multiplayer pack. Some recipes are intentionally challenging. Avoid building lag-producing machines."
+			tasks: [{
+				id: "2358CFC02D40DB76"
+				title: "Know Before You Play"
+				type: "checkmark"
+			}]
+			title: "Disclaimer Before Playing Server"
+			x: 0.5d
+			y: -4.0d
+		}
+	]
+	title: "Start Here"
+}

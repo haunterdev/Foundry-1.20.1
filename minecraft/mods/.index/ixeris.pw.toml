@@ -1,0 +1,17 @@
+filename = 'Ixeris-4.1.10+1.20.1-forge.jar'
+name = 'Ixeris'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Ixeris 4.1.10+1.20.1-forge'
+
+[download]
+hash = '26dd183494e5839e58196c98a6a51d4d9bd78d12'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7943639
+project-id = 1285307

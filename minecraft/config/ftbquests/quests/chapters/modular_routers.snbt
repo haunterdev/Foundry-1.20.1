@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "modular_routers"
+	group: "360E4E6D59912587"
+	id: "727BDEB7915F8AEC"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "4ABCF001363D9E40"
+		tasks: [{
+			id: "4E4325965CFDD802"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Modular Routers"
+}

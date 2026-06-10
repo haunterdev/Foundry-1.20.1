@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "relics"
+	group: "57474D1281EBDE44"
+	id: "0A66D59C6A18AE0D"
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		id: "4DFE1E5A904BB0ED"
+		tasks: [{
+			id: "13B53608860D9C12"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: -1.0d
+		y: 0.0d
+	}]
+	title: "Relics \\& Artifacts"
+}

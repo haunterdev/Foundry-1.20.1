@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "applied_energistics_2"
+	group: "211B40D265EABF98"
+	id: "3BCDD3CAF770A755"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "3AD8FEF82B8433BE"
+		tasks: [{
+			id: "582A251E8E5EC6D1"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -0.5d
+	}]
+	title: "Applied Energistics 2"
+}

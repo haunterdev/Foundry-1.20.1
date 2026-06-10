@@ -1,0 +1,77 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "iron_chests"
+	group: "211B40D265EABF98"
+	id: "3617B57C23A308A8"
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["467BD4782AEB8E74"]
+			id: "2B23E33425B02561"
+			tasks: [{
+				id: "50461F1042345719"
+				item: "ironchest:iron_chest"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["2B23E33425B02561"]
+			id: "02F71B13DA799408"
+			tasks: [{
+				id: "4944E05D8363D795"
+				item: "ironchest:gold_chest"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -0.5d
+		}
+		{
+			id: "467BD4782AEB8E74"
+			tasks: [{
+				id: "3503FAAFD5D51107"
+				item: "ironchest:copper_chest"
+				type: "item"
+			}]
+			x: 1.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["02F71B13DA799408"]
+			id: "2ED706C7D20B7214"
+			tasks: [{
+				id: "7D291F6B75B6033F"
+				item: "ironchest:diamond_chest"
+				type: "item"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["2ED706C7D20B7214"]
+			id: "6A4F9638B2322D4E"
+			tasks: [{
+				id: "18D2B938C8308A4C"
+				item: "ironchest:obsidian_chest"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["2ED706C7D20B7214"]
+			id: "4427047832073437"
+			tasks: [{
+				id: "3732EFC1C3D26D13"
+				item: "ironchest:crystal_chest"
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.5d
+		}
+	]
+	title: "Iron Chests"
+}

@@ -1,0 +1,17 @@
+filename = 'Voltaic-1.20.1-1.0.2-0.jar'
+name = 'Voltaic API'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Voltaic 1.20.1-1.0.2-0'
+
+[download]
+hash = '029864071db04cb1eebe21d228ce1d06072f8486'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7397504
+project-id = 1237904

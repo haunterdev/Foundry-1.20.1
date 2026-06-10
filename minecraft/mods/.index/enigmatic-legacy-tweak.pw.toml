@@ -1,0 +1,17 @@
+filename = 'enigmaticlegacytweak-1.0.0.jar'
+name = 'Enigmatic Legacy Tweak'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'enigmaticlegacytweak-1.0.0.jar'
+
+[download]
+hash = 'c9cb9ac8bce936145369504f0525d8e82ad00623'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6558252
+project-id = 1271769

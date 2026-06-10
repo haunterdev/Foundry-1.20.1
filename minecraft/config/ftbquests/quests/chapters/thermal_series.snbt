@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "thermal_series"
+	group: "360E4E6D59912587"
+	id: "056FCE3864ADDD32"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "14F71FF84966BA9B"
+		tasks: [{
+			id: "003DCF822B61680C"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+	title: "Thermal Series"
+}

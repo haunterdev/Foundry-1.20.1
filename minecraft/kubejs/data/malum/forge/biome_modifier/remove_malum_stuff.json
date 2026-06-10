@@ -1,0 +1,11 @@
+{
+  "type": "forge:remove_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": [
+    "malum:ore_natural_quartz",
+    "malum:blazing_quartz_ore",
+    "malum:quartz_geode",
+    "malum:deepslate_quartz_geode"
+  ],
+  "steps": "underground_ores"
+}

@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "structures"
+	group: "65FC90C6F35D103D"
+	id: "6DC74997DBC09E70"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "527AC81258B3F94A"
+		tasks: [{
+			id: "34920F81069C0F10"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: -0.5d
+		y: -0.5d
+	}]
+	title: "Structures"
+}

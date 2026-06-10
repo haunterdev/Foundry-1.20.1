@@ -1,0 +1,31 @@
+filename = 'e4mc-forge-6.0.6.jar'
+name = 'e4mc'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Forge] 6.0.6'
+
+[download]
+hash = '69c2b0b06c8bdebfd65ae37c7d84cd6a155e24f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7622142
+project-id = 849519

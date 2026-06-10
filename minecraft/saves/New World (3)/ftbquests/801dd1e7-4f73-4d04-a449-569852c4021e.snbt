@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "801dd1e74f734d04a449569852c4021e"
+	name: "SwedishNoodles#801dd1e7"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

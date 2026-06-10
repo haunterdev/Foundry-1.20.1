@@ -1,0 +1,11 @@
+{
+	chapter_groups: [
+		{ id: "65FC90C6F35D103D", title: "Exploration" }
+		{ id: "360E4E6D59912587", title: "Tech Mods" }
+		{ id: "211B40D265EABF98", title: "Storage Solutions" }
+		{ id: "34E144DBA0DC2BA3", title: "Enigmatic Legacy" }
+		{ id: "65EDE30BDF16512B", title: "Warfare" }
+		{ id: "57474D1281EBDE44", title: "Equipment" }
+		{ id: "1EF1342CE6238E9D", title: "Completionist Goals" }
+	]
+}

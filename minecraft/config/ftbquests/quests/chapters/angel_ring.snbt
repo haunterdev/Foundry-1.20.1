@@ -1,0 +1,11 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "angel_ring"
+	group: "57474D1281EBDE44"
+	id: "73B4C99593D7CE09"
+	order_index: 1
+	quest_links: [ ]
+	quests: [ ]
+	title: "Angel Ring"
+}

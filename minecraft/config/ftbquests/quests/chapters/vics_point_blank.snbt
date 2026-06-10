@@ -1,0 +1,69 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vics_point_blank"
+	group: "65EDE30BDF16512B"
+	id: "2D5D330D87D25739"
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			id: "49D473263D0A9AFC"
+			rewards: [{
+				id: "32F66947ED21BDD6"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "57B423F36A7A3BEB"
+				item: "pointblank:gunmetal_mesh"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			dependencies: ["49D473263D0A9AFC"]
+			id: "43F5C9955CAD01D6"
+			rewards: [{
+				id: "6F97BF7AAD34F0F1"
+				type: "xp_levels"
+				xp_levels: 1
+			}]
+			tasks: [{
+				id: "3B2D6777136E27DA"
+				item: "pointblank:gunmetal_ingot"
+				type: "item"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["43F5C9955CAD01D6"]
+			id: "0BD4331F7A2E3ECB"
+			tasks: [{
+				id: "24D37B0ED22B883D"
+				item: "pointblank:printer"
+				type: "item"
+			}]
+			x: 0.0d
+			y: 1.0d
+		}
+		{
+			id: "57A2B47EC8799444"
+			rewards: [{
+				id: "732A9EC5F1C8C70D"
+				type: "xp"
+				xp: 5
+			}]
+			tasks: [{
+				id: "10C8C38B8098F9D5"
+				item: "dummmmmmy:target_dummy"
+				type: "item"
+			}]
+			x: 1.5d
+			y: -3.0d
+		}
+	]
+	title: "Vic's Point Blank"
+}

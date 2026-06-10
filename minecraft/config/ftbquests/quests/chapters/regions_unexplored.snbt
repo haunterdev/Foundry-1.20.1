@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "regions_unexplored"
+	group: "65FC90C6F35D103D"
+	id: "53F9794B4640E473"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "7BE52AF37D66F20E"
+		tasks: [{
+			id: "5304A88E6A5F9991"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: -0.5d
+	}]
+	title: "Regions Unexplored"
+}

@@ -1,0 +1,17 @@
+filename = 'aperture_innovations-forge-2.0.1.jar'
+name = 'Aperture Innovations'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'aperture_innovations-forge-2.0.1.jar'
+
+[download]
+hash = '723f2b33de2d6ab956083386022b0c1ca9080c60'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7895624
+project-id = 1403821

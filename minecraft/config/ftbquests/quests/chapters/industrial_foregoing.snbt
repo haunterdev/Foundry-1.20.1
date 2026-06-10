@@ -1,0 +1,20 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "industrial_foregoing"
+	group: "360E4E6D59912587"
+	id: "2E96891EA9D4F9BF"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		id: "2F1EE1F6A445C418"
+		tasks: [{
+			id: "0F3430BC4D91770C"
+			title: "Unfinished Quest Line"
+			type: "checkmark"
+		}]
+		x: 0.5d
+		y: 0.0d
+	}]
+	title: "Industrial Foregoing"
+}

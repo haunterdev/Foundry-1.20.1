@@ -1,0 +1,624 @@
+{
+  "enigmaticlegacy:book/misc/cosmic_cake": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/jungle_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/obsidian_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mega_sponge": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "lootr:1chest": {
+    "criteria": {
+      "opened_chest": "2026-03-29 20:55:44 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/twisted_mirror": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/hunter_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/mending_mixture": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/soul_loss": {
+    "criteria": {
+      "is_cursed_one": "2026-03-29 20:56:19 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/shroomlamp": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/copper_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_sapling": "2026-03-29 20:55:46 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/matching_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/stocking_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/golden_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/spruce_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/cosmic_heart": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "lootr:social": {
+    "criteria": {
+      "opened_barrel": "2026-03-29 20:55:42 -0400",
+      "opened_chest": "2026-03-29 20:55:44 -0400"
+    },
+    "done": false
+  },
+  "enigmaticlegacy:book/misc/enchantment_transposer": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/warped_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/brewing/twisted_potion": {
+    "criteria": {
+      "is_cursed_one": "2026-03-29 20:56:19 -0400"
+    },
+    "done": false
+  },
+  "classicpipes:recipes/bone_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/obsidian_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/provider_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/brick_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/acacia_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2026-03-29 20:56:01 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/birch_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/redstone_lantern": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "pointblank:recipes/misc/printer": {
+    "criteria": {
+      "has_iron": "2026-03-29 20:55:44 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/routing_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/ender_ring": {
+    "criteria": {
+      "is_cursed_one": "2026-03-29 20:56:19 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2026-03-29 20:56:32 -0400",
+      "minecraft:snowy_taiga": "2026-03-29 20:54:58 -0400",
+      "minecraft:snowy_beach": "2026-03-29 20:55:41 -0400"
+    },
+    "done": false
+  },
+  "classicpipes:recipes/pipe_slicer": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/birch_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/mangrove_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/cursed_ring": {
+    "criteria": {
+      "fruit": "2026-03-29 20:56:19 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/animal_guidebook": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/bamboo_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/extradimensional_eye": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/dark_oak_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/mangrove_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/end_anchor": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/storage_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/dark_oak_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/copper_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/acacia_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/super_magnet_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/diamond_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/arcane_scrolls": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/soul_compass": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/iron_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/avarice_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/lapis_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/recipe_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/cursed_ring": {
+    "criteria": {
+      "has_items": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/lore_inscriber": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/lapis_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "aperture_innovations:recipe/long_fall_boots": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/request_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/flint_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/crimson_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "yungscavebiomes:root": {
+    "criteria": {
+      "always": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/tag_label_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/spruce_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/eldritch_amulet": {
+    "criteria": {
+      "is_the_cursed_one": "2026-03-29 20:56:19 -0400"
+    },
+    "done": false
+  },
+  "classicpipes:recipes/cherry_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "lootr:1barrel": {
+    "criteria": {
+      "opened_barrel": "2026-03-29 20:55:42 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/bamboo_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/monster_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/desolation_ring": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "undergarden:undergarden/root": {
+    "criteria": {
+      "tick": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/cherry_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/oak_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/oak_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/advanced_copper_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "travelersbackpack:root": {
+    "criteria": {
+      "tick": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/relics/enigmatic_amulet": {
+    "criteria": {
+      "has_items": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/berserk_charm": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/twisted_heart": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/decorations/lamp": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/insignia": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/brick_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/iron_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/jungle_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/mod_label": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/diamond_pipe": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/materials/ender_rod": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/crimson_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/warped_fluid_pipe_a": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/accessories/cursed_scroll": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/infernal_shield": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "classicpipes:recipes/advanced_copper_fluid_pipe_b": {
+    "criteria": {
+      "has_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/curse_transposer": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/tools/astral_breaker": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:book/misc/cursed_stone": {
+    "criteria": {
+      "has_the_recipe": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "enigmaticlegacy:main/root": {
+    "criteria": {
+      "flower": "2026-03-29 20:54:57 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2026-03-29 20:55:44 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

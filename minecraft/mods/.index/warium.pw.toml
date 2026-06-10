@@ -1,0 +1,17 @@
+filename = 'Warium 1.2.7.jar'
+name = 'Warium'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Warium 1.2.7'
+
+[download]
+hash = '528d81630a23fb4004e3abdd99b16bd225cd1e92'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7629932
+project-id = 1123901

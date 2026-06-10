@@ -1,0 +1,87 @@
+
+[Warium]
+	#Consume ammo in Creative Mode
+	creativeAmmoConsume = false
+	#REQUIRES «WARIUM PONDER & JEI» TO TAKE EFFECT
+	#Heat amount needed for resource processors that require heat to function
+	#Range: 0 ~ 1000
+	heatRequirement = 200
+
+	[Warium.Fluid]
+		#Fluid capacity of fuel tanks (mB)
+		#Range: > 1
+		fuelTanksCapacity = 1000
+		#Fluid capacity of Oil Refinery (mB)
+		#Range: > 1000
+		refineryCapacity = 1000
+		#Fluid capacity of Refinery Tower (mB)
+		#Range: > 1
+		refineryTowerCapacity = 16000
+
+	[Warium.Power]
+		#REQUIRES «WARIUM PONDER & JEI» TO TAKE EFFECT
+		#Minimal Kinetic Power required for assembly machines to function
+		#Range: > 0
+		machinesMinPower = 30
+		#Range: > 1
+		mediumDieselEnginePower = 50
+		#Range: > 1
+		smallDieselEnginePower = 35
+		#Range: > 1
+		mediumPetrolEnginePower = 60
+		#Range: > 1
+		smallPetrolEnginePower = 40
+		#Range: > 1
+		largeEnginePower = 50
+		#Range: > 1
+		jetTurbinePower = 51
+
+	[Warium.Energy]
+		#How much Forge Energy = 1 Kinetic Power unit (for Rotation Generator and Electric Motor)
+		#Range: 0.01 ~ 1.7976931348623157E308
+		kineticToFeRate = 1.0
+		#Maximum amount of energy that can be transfered to/from Warium blocks per tick
+		#Range: > 1
+		energyTransferLimit = 1000
+		#Energy Battery energy capacity (fe)
+		#Range: > 1
+		batteryCapacity = 800000
+		#Electric Firebox energy capacity (fe)
+		#Range: > 1
+		electricFireboxCapacity = 2000
+		#Electric Firebox energy consumption (fe/40t)
+		#Range: > 1
+		electricFireboxConsume = 1000
+		#Power Reactor energy capacity (fe)
+		#Range: > 1
+		powerReactorCapacity = 800000
+		#Power Reactor energy generation (fe/t)
+		#Range: > 1
+		powerReactorGeneration = 300
+		#Solar Generator energy generation (fe/t)
+		#Range: > 1
+		solarGeneration = 5
+		#Electric Motor max consumption (fe/t)
+		#Range: > 1
+		motorConsumeLimit = 50
+
+["Valkyrien Warium"]
+	#Maximum throttle value that can be set using Control Seat
+	#Range: > 1
+	maxThrottle = 10
+
+[Create]
+	#How many Stress Units will be equivalent to 1 Kinetic Power unit
+	#Range: > 1
+	kineticToStressRatio = 40
+	#What Rotation Speed is equivalent to 1 Kinetic Power unit
+	#Range: 1 ~ 5
+	kineticToSpeedRatio = 2
+
+	[Create.Heat]
+		#Blaze Burner type heat level for fireboxes
+		#Allowed values are KINDLED or SEETHING
+		fireboxHeatLevel = "KINDLED"
+		keroseneFireboxHeatLevel = "SEETHING"
+		electricFireboxHeatLevel = "SEETHING"
+
