@@ -22,3 +22,6 @@
 > * Does not track you or collect data
 > * Native support for **CurseForge**, **Modrinth**, and others
 
+>Built for the Foundry Semi-Anarchy Server
+-
+Thank you to everyone that played
