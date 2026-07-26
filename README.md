@@ -25,3 +25,5 @@
 Built for the Foundry Semi-Anarchy Server
 -
 Thank you to everyone that played
+
+https://www.curseforge.com/minecraft/modpacks/foundry-1-20-1
